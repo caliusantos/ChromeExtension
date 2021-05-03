@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+"version": "1.0.0",
+"name": "Clima São Paulo",
+"description": "Graus Celsius em São Paulo",
+"author": "Caliu Muriell dos Santos Magalhães",
+"browser_action": {
+    "default_title": "Clima São Paulo",
+    "default_popup": "index.html"
+    
+}
+}
